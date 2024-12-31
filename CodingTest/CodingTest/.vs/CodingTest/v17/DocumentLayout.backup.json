@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\CodingTest\\CodingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36AE22C7-1A5E-4A23-B361-C093FFF3315C}|CodingTest\\CodingTest.vcxproj|C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\CodingTest\\CodingTest\\CodingTest\\PlusMinus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36AE22C7-1A5E-4A23-B361-C093FFF3315C}|CodingTest\\CodingTest.vcxproj|solutionrelative:CodingTest\\PlusMinus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlusMinus.cpp",
+              "DocumentMoniker": "C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\CodingTest\\CodingTest\\CodingTest\\PlusMinus.cpp",
+              "RelativeDocumentMoniker": "CodingTest\\PlusMinus.cpp",
+              "ToolTip": "C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\CodingTest\\CodingTest\\CodingTest\\PlusMinus.cpp",
+              "RelativeToolTip": "CodingTest\\PlusMinus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T00:26:32.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

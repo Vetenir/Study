@@ -11,11 +11,11 @@ public:
 
 class Dog : public Animal {
 public:
-	Dog() {}
+	Dog() { cout << "개 생성자" << endl; }
 	void makeSound() {
 		cout << "멍멍" << endl;
 	}
-	virtual ~Dog() {}
+	virtual ~Dog() { cout << "개 소멸자" << endl; }
 };
 
 class Cat : public Animal {
@@ -39,20 +39,17 @@ public:
 int main() {
 
 	Animal* myAnimal[6];
-	Dog myDog;
-	Cat myCat;
-	Cow myCow;
 
 	for (int i = 0; i < 6; i++) {
 		if (i % 3 == 0) {
-			myAnimal[i] = new myDog;
+			myAnimal[i] = new Dog;
 		}
 		else if (i % 3 == 1)
 		{
-			myAnimal[i] = new myCat;
+			myAnimal[i] = new Cat;
 		}
 		else
-			myAnimal[i] = new myCow;
+			myAnimal[i] = new Cow;
 	}
 
 	for (int i = 0; i < 6; i++)
