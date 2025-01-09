@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\CodingTest\\CodingTest\\MiddleLetter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD7A7D8-52BE-4434-B6A6-F0FDFB892A11}|MiddleLetter\\MiddleLetter.vcxproj|C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\CodingTest\\CodingTest\\MiddleLetter\\MiddleLetter\\MiddleLetter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAD7A7D8-52BE-4434-B6A6-F0FDFB892A11}|MiddleLetter\\MiddleLetter.vcxproj|solutionrelative:MiddleLetter\\MiddleLetter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiddleLetter.cpp",
+              "DocumentMoniker": "C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\CodingTest\\CodingTest\\MiddleLetter\\MiddleLetter\\MiddleLetter.cpp",
+              "RelativeDocumentMoniker": "MiddleLetter\\MiddleLetter.cpp",
+              "ToolTip": "C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\CodingTest\\CodingTest\\MiddleLetter\\MiddleLetter\\MiddleLetter.cpp",
+              "RelativeToolTip": "MiddleLetter\\MiddleLetter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T01:21:14.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\Task\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92C20-1754-4B0A-834E-146A2D96A3FC}|Library\\Library.vcxproj|C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\Task\\Library\\Library\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CC92C20-1754-4B0A-834E-146A2D96A3FC}|Library\\Library.vcxproj|solutionrelative:Library\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cpp",
+              "DocumentMoniker": "C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\Task\\Library\\Library\\Library.cpp",
+              "RelativeDocumentMoniker": "Library\\Library.cpp",
+              "ToolTip": "C:\\Users\\ehgns\\OneDrive\\Documents\\GitHub\\Study\\Task\\Library\\Library\\Library.cpp*",
+              "RelativeToolTip": "Library\\Library.cpp*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T01:27:32.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
